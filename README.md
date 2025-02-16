@@ -6,7 +6,7 @@
 Estou sempre em busca de novos desafios para aplicar meus conhecimentos e continuar evoluindo na área de tecnologia, especialmente em gestão e otimização de dados.
 Estou aberto a novas oportunidades e sempre disposto a aprender e colaborar com pessoas que compartilham interesses semelhantes.
 ### English:
-👋 Hi, my name is Matheus Esboinski. I enjoy programming and am currently pursuing a technical course in Systems Development. I have a particular interest in **databases**, which has become the main focus of my learning. I am always looking for new challenges to apply my knowledge and continue evolving in the field of technology, especially in data management and optimization. I am open to new opportunities and always eager to learn and collaborate with others who share similar interests.
+👋 Hi, my name is Matheus Esboinski. I enjoy programming and am currently pursuing a technical course in **Systems Development**. I have a particular interest in **databases**, which has become the main focus of my learning. I am always looking for new challenges to apply my knowledge and continue evolving in the field of technology, especially in data management and optimization. I am open to new opportunities and always eager to learn and collaborate with others who share similar interests.
 
 
 ## 💻 **Tech Stack:**
