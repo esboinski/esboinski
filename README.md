@@ -18,9 +18,4 @@ Estou aberto a novas oportunidades e sempre disposto a aprender e colaborar com 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)
 
-## 🎓 **Certificates:**
-[**Intermediate Certificate in Systems Development - SENAI**](https://sgn.sesisenai.org.br/arquivos/certificacao/fe/13/27/fe13271f60fb333af7b90ce40eec00ca/pfx13910507027093622582sfx.pdf?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJodHRwczovL3Nnbi5zZXNpc2VuYWkub3JnLmJyL2FycXVpdm9zL2NlcnRpZmljYWNhby9mZS8xMy8yNy9mZTEzMjcxZjYwZmIzMzNhZjdiOTBjZTQwZWVjMDBjYS9wZngxMzkxMDUwNzAyNzA5MzYyMjU4MnNmeC5wZGYiLCJpc3MiOiJNZWRpYUZpbGVTZXJ2bGV0IiwiZXhwIjoxNzM5ODYxODQzfQ.bfQTeECviDzyeAOF_m_bfTSBNq-ITaWL9cq3nykv1nM)
-
-
-
 </div>
