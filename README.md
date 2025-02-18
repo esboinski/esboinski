@@ -17,5 +17,9 @@ Estou aberto a novas oportunidades e sempre disposto a aprender e colaborar com 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)
+![Apache](https://img.shields.io/badge/Apache-%23D22128?logo=apache&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/SQL-%23F7B731?logo=sqlite&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff)
+
 
 </div>
