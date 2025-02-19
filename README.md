@@ -9,6 +9,7 @@ Estou aberto a novas oportunidades e sempre disposto a aprender e colaborar com 
 👋 Hi, my name is Matheus Esboinski. I enjoy programming and am currently pursuing a technical course in **Systems Development**. I have a particular interest in **databases**, which has become the main focus of my learning. I am always looking for new challenges to apply my knowledge and continue evolving in the field of technology, especially in data management and optimization. I am open to new opportunities and always eager to learn and collaborate with others who share similar interests.
 
 
+---
 ## 💻 **Tech Stack:**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
